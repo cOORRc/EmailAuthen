@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831222355167",
+    "firebase_url": "https://loginemail-ebd1f.firebaseio.com",
+    "project_id": "loginemail-ebd1f",
+    "storage_bucket": "loginemail-ebd1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831222355167:android:ef56c77d4b293fd7",
+        "android_client_info": {
+          "package_name": "com.kittisak.firebase.emailauthen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831222355167-sdt9neh1s82mvs4r92vonlmko22nn6ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBWL5WYQeVjk0BrfnoCnC2vrY7ATitDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
